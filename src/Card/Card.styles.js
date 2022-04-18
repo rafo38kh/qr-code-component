@@ -6,7 +6,7 @@ export const QrImage = styled.img`
   border-radius: 1rem;
 `;
 
-export const Box = styled.div`
+export const Box = styled.main`
   width: 87%;
   background-color: ${colors.secondary};
   max-width: 40rem;

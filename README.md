@@ -20,7 +20,7 @@ This is a solution to the [{NAME} Challenge on Frontend Mentor](https://www.fron
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-react-HJhsjBo45](https://www.frontendmentor.io/solutions/qr-code-component-with-react-HJhsjBo45)
 - Live Site URL: [https://rafo38kh.github.io/qr-code-component/](https://rafo38kh.github.io/qr-code-component/)
 
 ## My process
