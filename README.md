@@ -16,7 +16,7 @@ This is a solution to the [{NAME} Challenge on Frontend Mentor](https://www.fron
 
 ### Screenshot
 
-![screenshot](images/screenshot.png)
+![screenshot](/src/images/screenshot.png)
 
 ### Links
 
